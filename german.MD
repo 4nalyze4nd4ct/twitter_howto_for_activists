@@ -22,8 +22,8 @@ Seit Ihr euch unsicher, so gibt es eine journalistische Regel, schaut ob es mehr
 
 ##4 - Bilder
 Achtet darauf die eigenen Leute auf Bildern unkenntlich zu machen. Oft werden Bilder achtlos gepostet und diese gehen dann um die Welt.
-Nutzt Apps unter Android wie ObscuraCam zum einfachen Unkenntlichmachen der Gesichtern (https://play.google.com/store/apps/details?id=org.witness.sscphase1&feature=search_result).
-Für das iPhone ist uns noch nichts bekannt.
+Nutzt Apps unter Android wie ObscuraCam oder Pixelot (bessere Kompatbiilität und Bedienbarkeit ab Android L) zum einfachen Unkenntlichmachen der Gesichtern (https://play.google.com/store/apps/details?id=org.witness.sscphase1 oder https://play.google.com/store/apps/details?id=com.bybeardy.pixelot).
+Für das iPhone vielleicht "Pixelate My Image Free" (nicht getestet, https://itunes.apple.com/us/app/pixelate-my-image-free/id754494885?mt=8).
 
 Auch im Falle von Repression, können später dann keine Anhaltspunkte für Ermittlungen geliefert werden.
 Verschlüsselt eure Geräte, falls diese Beschlagnahmt werden, oder diese euch z.B. abgezogen werden, oder Ihr sie ganz einfach verliert.
